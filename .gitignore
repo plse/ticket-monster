@@ -4,7 +4,6 @@ target
 .faces-config.xml.faceside
 .faces-config.xml.jsfdia
 MANIFEST.MF
-bin
 .openshift
 */.gitignore
 /helloworld-jsp
@@ -23,7 +22,6 @@ atlassian-ide-plugin.xml
 .project
 .settings
 .metadata
-bin
 .nbattrs
 *.log
 .clover
