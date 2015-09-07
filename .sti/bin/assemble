@@ -1,0 +1,1 @@
+cp ../../demo/target/ticket-monster.war /opt/eap/standalone/deployments/ROOT.war
